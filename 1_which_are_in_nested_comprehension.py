@@ -1,0 +1,1 @@
+# [x for x in first_string if any(x in xs for xs in second_string)]
